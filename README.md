@@ -63,10 +63,10 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** and **Software Develop
 
 ## 📂 Featured Projects  
 
-### 🔍 [Search Engine Development](https://github.com/your-repo-link)  
+### 🔍 [Search Engine Development](https://github.com/aakashshelke/Search-Engine)  
 Scalable backend APIs built using **Python** and **Apache Lucene**, ensuring high availability and fast search indexing.
 
-### 🤖 [Anomaly Detection in Image Data](https://github.com/your-repo-link)  
+### 🤖 [Anomaly Detection in Image Data](https://colab.research.google.com/drive/12IcnURp8MFwcWp9genUzrZTBUXgnK_qF)  
 Implemented **CNNs** and **GANs** for automated anomaly detection using **Flask APIs** and **PostgreSQL**.  
 
 ### 🌟 [Android-based AR Application](https://github.com/your-repo-link)  
